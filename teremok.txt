@@ -1,3 +1,1 @@
-lox
-lox1
-lox3
+aaa
